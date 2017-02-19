@@ -53,4 +53,4 @@ $sh backup.sh
 ```
 
 ## Disclaimer
-Although this script does not delete any existing content, you are advised to take backup of the server before running the script for the first time.
+Although this script does not delete any existing content, you are advised to take backup of the server before running the script for the first time. As of now this is pretty simple and no-nonsense script which just works.
