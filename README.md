@@ -26,13 +26,13 @@ Following paraneters need to be edited between parameters_start and parameters_e
 ```
 DB_USER: This should be a mysql user having access to all mysql fatabases. Usually this is root.
 DB_PASS: Password of the above mysql user.
-RSYNC_USER: username for ftp/rsync
-RSYNC_HOST: host for ftp/rsync
-RSYNC_PASS: password for ftp/rsync
-RSYNC_PATH: backup directory on backup server, for ftp/rsync
+RSYNC_USER: Username for ftp/rsync
+RSYNC_HOST: Host for ftp/rsync
+RSYNC_PASS: Password for ftp/rsync
+RSYNC_PATH: Backup directory on backup server, for ftp/rsync
 LOCAL_DIR: Local directory where backups are stored. 
-ALERT_EMAIL=email id where you want to get notification of backup completion
-WEB_ROOT: web root directory where  php files are stored. This is usually "/home".
+ALERT_EMAIL: Email id where you want to get notification of backup completion
+WEB_ROOT: Web root directory where  php files are stored. This is usually "/home".
 ```
 
 ### Sample configuration:
