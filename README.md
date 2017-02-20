@@ -49,7 +49,7 @@ WEB_ROOT=/home
 ```
 ## Usage
 ```
-$sh backup.sh
+$sh lamp-backup.sh
 ```
 
 ## Disclaimer
