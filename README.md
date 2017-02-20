@@ -31,7 +31,7 @@ RSYNC_HOST: host for ftp/rsync
 RSYNC_PASS: password for ftp/rsync
 RSYNC_PATH: backup directory on backup server, for ftp/rsync
 LOCAL_DIR: Local directory where backups are stored. 
-ALERT_EMAIL=pr@qtriangle.in
+ALERT_EMAIL=email id where you want to get notification of backup completion
 WEB_ROOT: web root directory where  php files are stored. This is usually "/home".
 ```
 
