@@ -1,6 +1,6 @@
 # PHP-MySQL backup script for LAMP server
 
-This script takes backup of a LAMP server, taking home directory files and all of the MYSQL databases.
+This script takes backup of a LAMP server, taking the complete /home directory and all of the MYSQL databases.
 
 ## Brief
 The script makes use of FTP and RSYNC protocols for transferring database and web backups respectively.
